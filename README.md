@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• Women in Science and Engineering (WiSE)  | Member<br>
 
 ## ✉ Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mika-collins) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mika-collins) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mpc8052@uncw.edu) 
 
 ![](https://github-contributor-stats.vercel.app/api?username=mika-collins&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
