@@ -1,7 +1,7 @@
 # 👩‍💻 Hello, my name is Mika Collins! Welcome to my GitHub! 
 
 🎓 I’m currently pursuing a **Bachelor's Degree in Software Engineering** at the University of North Carolina Wilmington<br>
-💼 I currently work as a **Teaching Assistant** and **Research Assistant** on campus<br>
+📚 I am currently learning HTML/CSS and Javascript<br>
 
 👥 My active involvement consists of:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• CSE Dean's Student Leadership Council  |  Student Representative<br>
@@ -19,6 +19,10 @@
 ## 💻 My Technical Skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
