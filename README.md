@@ -1,33 +1,41 @@
-# 👩‍💻 Hello, my name is Mika Collins! Welcome to my GitHub! 
+<h1 align="left">Welcome to my GitHub!</h1>
 
-🎓 I’m currently pursuing a **Bachelor's Degree in Software Engineering** at the University of North Carolina Wilmington<br>
-📚 I am currently learning HTML/CSS and Javascript<br>
+###
 
-👥 My active involvement consists of:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• CSE Dean's Student Leadership Council  |  Student Representative<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Sigma Delta Pi, National Collegiate Hispanic Honor Society  |  Member<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Association for Computing Machinery (ACM)  |  Member<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Society of Women Engineers  |  Member<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Women in Science and Engineering (WiSE)  | Member<br>
+<p align="left">Hi, I'm Mika, a Senior Software Engineering pursuing a Bachelor's Degree at the University of North Carolina Wilmington. <br>
+  <br>I am always open to new opportunities. Feel free to check out my projects and connect with me through my <a href="https://first-last.github.io">portfolio</a> or social links!</p>
 
-## ✉ Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mika-collins) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mpc8052@uncw.edu) 
+###
 
-![](https://github-contributor-stats.vercel.app/api?username=mika-collins&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-## 💻 My Technical Skills:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-[![](https://visitcount.itsvg.in/api?id=mika-collins&icon=7&color=12)](https://visitcount.itsvg.in)
+###
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mika-collins.mika-collins&right_color=rebeccapurple"  />
+</div>
