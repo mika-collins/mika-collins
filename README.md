@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Mika, a Senior Software Engineering pursuing a Bachelor's Degree at the University of North Carolina Wilmington. <br>
+<p align="left">Hi, I'm Mika, a Senior Software Engineering student pursuing a Bachelor's Degree at the University of North Carolina Wilmington. <br>
   <br>I am always open to new opportunities. Feel free to check out my projects and connect with me through my <a href="https://mika-collins.github.io">portfolio</a> or social links!</p>
 
 ###
