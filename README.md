@@ -37,7 +37,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mika-collins.mika-collins&right_color=rebeccapurple"  />
-</div>
